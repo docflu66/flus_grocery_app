@@ -1,4 +1,9 @@
 # Changelog
+##[0.3.0]
+### Added
+- exercises for Conditional Statements, Loops, Error Handling
+
+# Changelog
 ##[0.2.0] - 2024-10-29
 ### Added
 - exercises for tuples, dictionaries, sets, and slicing lists
